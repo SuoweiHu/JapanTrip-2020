@@ -9,7 +9,7 @@
 
 *删除其他人添加的景点信息的时候请使用strike through格式,请不要直接删除!!!*
 
-*没有问题的话这个Repo是开放的,甜你的UserName和Pass就可以提交更改*
+*没有问题的话这个Repo是开放的,填你的UserName和Pass就可以提交更改*
 *如果无法提交跟我说,UserName: suowei.h@gmail.com, 密码我发你*
 
 ## 现有文件
