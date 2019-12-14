@@ -12,7 +12,7 @@
   **删除其他人添加的景点信息的时候请使用`strike through (~~)`格式,请不要直接删除 ! ! !**
   **如果是等待商榷的项目最好使用高亮`highlight (==)`标记**
   
-(关于markdown的使用问题我附带了markdown cheatsheet)
+(关于markdown的使用问题我附带了markdown cheatsheet, 注意打开这个文件的时候请使用最普通的文本编辑器,不然看不到他的格式标签)
 
 ## 关于下载/上传注意事项
   每次编辑前`pull`下这个我经常忘所以写下
