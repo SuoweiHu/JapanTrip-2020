@@ -19,6 +19,12 @@
   上传upsteam时如果添加了新的文件记得`add .`
   没有问题的话这个Repo是开放的,填你的github账号密码就可以提交
   如果无法提交跟我说,UserName: `suowei.h@gmail.com`, 密码我发你
+  
+## Google/ Google Maps
+  这个...国内地图查店名,查公交轻轨这些都不大友好,zyh如果你要来的话我先把翻墙工具撇这了
+  https://home.subssr.store/auth/login 
+  suowei.h@gmail.com
+  nujfif-cesnuv-jorVa7
 
 ## 现有文件
   东京一代.md 
