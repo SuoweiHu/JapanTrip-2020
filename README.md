@@ -45,7 +45,7 @@
 
 ## 推荐使用的Preview工具: 
 
-  Typora(下载ipic作为图片上传工具), 打开vs code中刚刚clone下来使用的目录，最后建议使用Github作为预览的主题（同意一下缩进之类的会好看的多）
+  Typora(下载ipic作为图片上传工具,这样你的图片才可以被我们预览), 打开vs code中刚刚clone下来使用的目录，最后建议使用Github作为预览的主题（同意一下缩进之类的会好看的多）
 
 ![image-20191217140343013](https://tva1.sinaimg.cn/large/006tNbRwgy1g9zonynh8lj30jq0jo0zo.jpg)
 
