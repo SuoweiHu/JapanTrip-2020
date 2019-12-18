@@ -32,6 +32,7 @@
 ⛩东京一带.md: 
 
 - 大致的景点归纳
+- 请将要去的景点添加到目录下的[谷歌地图](https://drive.google.com/open?id=1dLZIDPDTCEggfbseCkc7ACiNJ22XU7Aw&usp=sharing)中
 
 🗻富士山游.md:
 
