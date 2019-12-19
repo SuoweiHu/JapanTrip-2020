@@ -2,7 +2,7 @@
 ![image-20191214122946350](https://tva1.sinaimg.cn/large/006tNbRwly1g9w53a65pwj30xe0nikjl.jpg)
 
 # 东京附近:
-[Google Map](https://drive.google.com/open?id=1dLZIDPDTCEggfbseCkc7ACiNJ22XU7Aw&usp=sharing)
+Google Map
 
 [东京旅游官网](https://www.gotokyo.org/cn/index.html)
 
@@ -18,21 +18,20 @@
 |庄孟晋|蓝色|
 |郑毅恒|橙色|
 
-
 ## 中央区（ちゅうおうく）
 
 ### 银座周边
 * [索尼公园](https://www.ginzasonypark.jp/e/) `〒104-0061 東京都中央区銀座５丁目３−1`
-* ？GINZA SIX（商场）`〒104-0061 東京都中央区銀座６丁目１０−1`
-* ？銀座通り（街上的店都可以逛一下）
+* GINZA SIX（商场）`〒104-0061 東京都中央区銀座６丁目１０−1`
+* 銀座通り（街上的店都可以逛一下）
 
 ### 日本桥周边
-* ？[三井記念美術館](http://www.mitsui-museum.jp/) `东京都中央区日本桥室町 2-1-1 三井本馆 7 楼`
+* [三井記念美術館](http://www.mitsui-museum.jp/) `东京都中央区日本桥室町 2-1-1 三井本馆 7 楼`
     * 周一不开门
-* ？[日本橋三越本店](https://www.mitsukoshi.mistore.jp/nihombashi.html) `东京都中央区日本桥室町 1-4-1`
+* [日本橋三越本店](https://www.mitsukoshi.mistore.jp/nihombashi.html) `东京都中央区日本桥室町 1-4-1`
     * 购物
 ### 築地市場周边
-* ？築地市場 `〒104-0045 東京都中央区築地５丁目２−1`
+* 築地市場 `〒104-0045 東京都中央区築地５丁目２−1`
     * 吃新鲜的海产（注：场内市场已搬迁，看不到金枪鱼拍卖什么的，但场外市场还在，可以吃寿司，鲜鱼）
 
 ## 台东区(Taito)/千代田区(Chiyoda)
@@ -53,10 +52,11 @@
 
 - 秋葉原ガチャポン会館 (扭蛋机)`东京都千代田区外神田3-15-5`	
 
-- 友都八喜Youdobashi(电器+吃饭)`千代区神田花冈钉1-1`
+- 友都八喜 Youdobashi (电器+吃饭)`千代区神田花冈钉1-1`
+
 - 自作キーボード専門店(游舍工房实体店) `東京都台東区上野３丁目６`
 
-    ​	每两小时500日元(有店员负责指导)
+    ​	每两小时 500 日元(有店员负责指导)
 
     ​	左右分离型的键盘 客制化键盘
 
@@ -116,8 +116,8 @@
 ## 涉谷区(Shibuya)
 
 ### 		涉谷站附近
-* ?忠犬ハチ公像（八公像）
-* ?[渋谷 PARCO](shibuya.parco.jp) `〒150-8377 東京都渋谷区宇田川町１５−1`
+* 忠犬ハチ公像（八公像）
+* [渋谷 PARCO](shibuya.parco.jp) `〒150-8377 東京都渋谷区宇田川町１５−1`
     * 任天堂直营店 Nintendo TOKYO
     * Pokémon Center SHIBUYA
 
@@ -134,8 +134,8 @@
 ## 文京区(bunkyo)
 
 ### 		东京大学
-* ？安田讲堂
-* ？[厨菓子くろぎ](http://www.wagashi-kurogi.co.jp/) `東京都文京區本鄉 7-3-1`
+* 安田讲堂
+* [厨菓子くろぎ](http://www.wagashi-kurogi.co.jp/) `東京都文京區本鄉 7-3-1`
     * 下午茶（招牌据说一個是葛きり (葛切)，另一個是蕨もち (蕨餅)）
 
 
