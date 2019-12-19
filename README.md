@@ -9,8 +9,10 @@
 - 最后使用无序列表来写游玩的项目(或者如果项目很大可以参照上一条)
 
 - 不要把开放时间地址等信息列为标题项*
--  **删除其他人添加的景点信息的时候请使用`strike through (~~)`格式,请不要直接删除 ! ! !**
--  **如果是等待商榷的项目最好使用高亮`highlight (==)`标记**
+-  **删除其他人添加的景点信息的时候请使用`strike through (~~)`格式,<mark>请不要直接删除</mark> ! ! !**
+-  ~~**如果是等待商榷的项目最好使用高亮`highlight (==)`标记**~~
+- 发现github不支持（==）表示markdown高亮，请使用`<mark>[your input text]</mark>`来获得高亮效果以表示待商榷事项。
+  - 高亮在某些部分表示值得注意的事项
 
 (关于markdown的使用问题我附带了markdown cheatsheet, 注意打开这个文件的时候请使用最普通的文本编辑器,不然看不到他的格式标签)
 
@@ -32,6 +34,7 @@
 ⛩东京一带.md: 
 
 - 大致的景点归纳
+- 请将要去的景点添加到目录下的[谷歌地图](https://drive.google.com/open?id=1dLZIDPDTCEggfbseCkc7ACiNJ22XU7Aw&usp=sharing)中
 
 🗻富士山游.md:
 
@@ -50,10 +53,3 @@
 ![image-20191217140343013](https://tva1.sinaimg.cn/large/006tNbRwgy1g9zonynh8lj30jq0jo0zo.jpg)
 
 ![image-20191217140154634](https://tva1.sinaimg.cn/large/006tNbRwgy1g9zom3bz4vj30os0bw48f.jpg)
-
-##
-
-~~YI LAI~~
-
-
-ghfgfhgfgh
