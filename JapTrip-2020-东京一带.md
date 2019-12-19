@@ -116,14 +116,8 @@ Google Map
 ## 涉谷区(Shibuya)
 
 ### 		涉谷站附近
-<<<<<<< HEAD
-* ?忠犬ハチ公像（八公像）
-* ?涉谷十字路口（渋谷スクランブル交差点）
-* ?[渋谷 PARCO](shibuya.parco.jp) `〒150-8377 東京都渋谷区宇田川町１５−1`
-=======
 * 忠犬ハチ公像（八公像）
 * [渋谷 PARCO](shibuya.parco.jp) `〒150-8377 東京都渋谷区宇田川町１５−1`
->>>>>>> 30fe3aa0259b6a00412e2a4c29cb2bc0d4e36f5b
     * 任天堂直营店 Nintendo TOKYO
     * Pokémon Center SHIBUYA
 
@@ -140,15 +134,9 @@ Google Map
 ## 文京区(bunkyo)
 
 ### 		东京大学
-<<<<<<< HEAD
-* ？安田讲堂
-* ？[厨菓子くろぎ](http://www.wagashi-kurogi.co.jp/) `東京都文京區本鄉 7-3-1`
-    * 下午茶（招牌据说一個是葛きり (葛切)，另一個是蕨もち (蕨餅))
-=======
 * 安田讲堂
 * [厨菓子くろぎ](http://www.wagashi-kurogi.co.jp/) `東京都文京區本鄉 7-3-1`
     * 下午茶（招牌据说一個是葛きり (葛切)，另一個是蕨もち (蕨餅)）
->>>>>>> 30fe3aa0259b6a00412e2a4c29cb2bc0d4e36f5b
 
 
 ## 新宿区(Shijujju City)
