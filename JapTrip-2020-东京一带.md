@@ -2,7 +2,8 @@
 ![image-20191214122946350](https://tva1.sinaimg.cn/large/006tNbRwly1g9w53a65pwj30xe0nikjl.jpg)
 
 # 东京附近:
-Google Map
+[そうだ 聖地、行こう](https://play.google.com/store/apps/details?id=com.goodclues.ssi&hl=ja)
+* 有安卓的可以下载一个这个，有关圣地巡礼的
 
 [东京旅游官网](https://www.gotokyo.org/cn/index.html)
 
