@@ -1,6 +1,10 @@
 # JapanTrip-2020
 2020 寒假六七月份旅游
 
+## 百度文库下载工具
+
+[百度文库下载工具](http://www.hiwenku.com/)
+
 ## 格式上请使用:
 - 第一级标题为游玩的宏观范围
 
@@ -56,3 +60,5 @@
 
 TEST CONFLICT
 TEST_CONFLICT
+
+
