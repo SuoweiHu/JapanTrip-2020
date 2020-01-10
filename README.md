@@ -23,7 +23,7 @@
 ## 关于下载/上传注意事项
 每次编辑前`pull`下这个我经常忘所以写下。
 
-上传upsteam时如果添加了新的文件记得`add .`。
+上传upsteam时如果添加了新的文件记得`add .`。 
 
 没有问题的话这个Repo是开放的,填你的github账号密码就可以提交，如果无法提交跟我说,UserName: `suowei.h@gmail.com`, 密码我发你，或者添加个collaborater之类的。
 
