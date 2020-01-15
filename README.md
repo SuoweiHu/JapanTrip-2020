@@ -1,11 +1,14 @@
 # JapanTrip-2020
-2020 寒假六七月份旅游
 
-## 百度文库下载工具
+---
 
-[百度文库下载工具](http://www.hiwenku.com/)
+## 代码量统计（Git Log）
 
-## 格式上请使用:
+​	https://segmentfault.com/a/1190000008542123
+
+---
+
+## 格式上请使用（Markdown）
 - 第一级标题为游玩的宏观范围
 
 - 第二级标题为地区或者项目的字类别
@@ -20,17 +23,23 @@
 
 (关于markdown的使用问题我附带了markdown cheatsheet, 注意打开这个文件的时候请使用最普通的文本编辑器,不然看不到他的格式标签)
 
-## 关于下载/上传注意事项
+---
+
+## 关于下载/上传注意事项（Git）
+
 每次编辑前`pull`下，上传upsteam时如果添加了新的文件记得`add .`，最后`git push`没有问题的话这个Repo是开放的,填你的github账号密码就可以提交，如果无法提交跟我说，可能要改一下你的权限什么的。
 
-## Google/ Google Maps
-  这个...国内地图查店名,查公交轻轨这些都不大友好,zyh如果你要来的话我先把翻墙工具撇这了
+---
+
+## Google/ Google Maps（郑毅衡）
 
 - https://home.subssr.store/auth/login 
 - suowei.h@gmail.com 
 - nujfif-cesnuv-jorVa7
 
-## 现有文件
+---
+
+## 现有文件：
 
 行程相关
 
@@ -53,9 +62,19 @@
 
 来轶的拍摄计划.md
 
-- AN
+- As name says
 
-## 推荐使用的Preview工具: 
+
+
+
+
+
+
+
+
+---
+
+## 推荐使用的编辑工具（Markdown） 
 
   Typora(下载ipic作为图床), 为了统一格式，使用下面的设置。
 
