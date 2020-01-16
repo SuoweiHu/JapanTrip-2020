@@ -4,7 +4,7 @@
 
 ## Notice 
 
-注意⚠️：每个区都用地图把想要去的地方标出来，可以看上面的谷歌地图，还没加入谷歌地图的请添加到“未加到地图中的地址.md”文件中以便区分，之后统一加到[记录用的地图][4]当中
+注意：每个区都用地图把想要去的地方标出来，可以看上面的谷歌地图，还没加入谷歌地图的请添加到“未加到地图中的地址.md”文件中以便区分，之后统一加到[记录用的地图][4]当中
 
 注意⚠️：如果有需要通知特定人或者所有人或长期任务（可以把任务派给自己或者他人）请添加到Git Issue部分（例如：需要在四月底通知日本同学签发邀请函，需要规划从xx到yy部分的路线，需要提前在网上预订的酒店）
 
@@ -124,6 +124,8 @@
 * [渋谷 PARCO][8] `〒150-8377 東京都渋谷区宇田川町１５−1`
 	* 任天堂直营店 Nintendo TOKYO
 	* Pokémon Center SHIBUYA
+	* EVA Store
+		* 可以先看看网上的货品， 有些需要预定 
 
 ### 明治神宫(Meiji Jingu)
 
@@ -136,6 +138,16 @@
 * Apple表参道 `涉谷区神宫前4丁目-2-13` 
 
 	​	
+
+---
+##豊島区
+
+###池袋P'PARCO `東京都豊島区東池袋 1-50-35`
+* [EVANGELION STORE TOKYO-01][11]
+	* 11:00 ～ 21:00
+	* 可以现在网上看一下有什么想买的，有些商品需要预定
+	* 比如 https://www.evastore.jp/products/list?category_id=678
+	* https://www.evastore.jp/
 
 ---
 
@@ -203,5 +215,6 @@
 [8]:	shibuya.parco.jp
 [9]:	http://www.wagashi-kurogi.co.jp/
 [10]:	http://www.sohu.com/a/299360318_611314
+[11]: http://www.evastore2.jp/tokyo-01/
 
 [image-1]:	https://tva1.sinaimg.cn/large/006tNbRwly1g9w53a65pwj30xe0nikjl.jpg
