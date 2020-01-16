@@ -2,9 +2,19 @@
 
 ---
 
-## 代码量统计（Git Log）
+## [代码量统计](https://segmentfault.com/a/1190000008542123)
 
-​	https://segmentfault.com/a/1190000008542123
+​	查看git上的个人代码量：
+
+```
+git log --author="username" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }' -
+```
+
+​	查看git上的个人代码量：
+
+```
+git log --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --author="$name" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }' -; done
+```
 
 ---
 
