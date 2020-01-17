@@ -46,7 +46,7 @@ git log --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git l
 
 ---
 
-## Google/ Google Maps（郑毅衡）
+## Google/ Google Maps（郑毅恒）
 
 - https://home.subssr.store/auth/login 
 - suowei.h@gmail.com 
