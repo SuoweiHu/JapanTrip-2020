@@ -9,10 +9,12 @@
 注意⚠️：如果有需要通知特定人或者所有人或长期任务（可以把任务派给自己或者他人）请添加到Git Issue部分（例如：需要在四月底通知日本同学签发邀请函，需要规划从xx到yy部分的路线，需要提前在网上预订的酒店）
 
 - [そうだ 聖地、行こう ][1]有安卓的可以下载一个这个，有关圣地巡礼的，OK 谢谢来大师
+- [navitime][14] 如果谷歌地图找不到的话可以用这个navitime
 
 - [东京旅游官网][2]
 
 - [窝日本][3]
+- [tabelog][13] 找周围好吃餐馆用的网站
 
 ---
 
@@ -217,5 +219,7 @@
 [10]:	http://www.sohu.com/a/299360318_611314
 [11]: http://www.evastore2.jp/tokyo-01/
 [12]:https://www.evastore.jp/products/list?name=%E5%8F%97%E6%B3%A8%E7%94%9F%E7%94%A3%E5%93%81
+[13]:https://tabelog.com/en/
+[14]:https://www.navitime.co.jp/
 
 [image-1]:	https://tva1.sinaimg.cn/large/006tNbRwly1g9w53a65pwj30xe0nikjl.jpg
