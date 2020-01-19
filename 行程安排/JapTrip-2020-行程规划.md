@@ -14,14 +14,19 @@
 
 ## 具体行程
 
-
 ### 七月一号
 
-出发相关信息-待填写(春秋航空???反正四月底之前给订了)
+[ECBO CLOACK](https://cloak.ecbo.io/en)，可以在到羽田和入住酒店这段时间寄存行李，==（我觉得还是别了吧，直接东西放酒店会比较好，毕竟从机场到市中心单程得至少开车20分钟，或者公共交通30分钟，晚上再专门去哪趟行李也太亏了）==
 
-[ECBO CLOACK](https://cloak.ecbo.io/en)
+![image-20200119163751003](https://tva1.sinaimg.cn/large/006tNbRwgy1gb1ykpk9rsj31ht0u0kjn.jpg)
 
-* 可以在到羽田和入住酒店这段时间寄存行李
+![image-20200119163929792](https://tva1.sinaimg.cn/large/006tNbRwgy1gb1ymlibwoj31fc0u0u10.jpg)
+
+七月一日早中时间到达东京羽田国际机场，需要乘坐Access特快/京滨急行电车，转JR环线到达涩谷或者中央区酒店把行李放下开始逛周边
+
+![image-20200119163124117](https://tva1.sinaimg.cn/large/006tNbRwgy1gb1yduqvtuj31ae0u01kx.jpg)
+
+![image-20200119164317673](https://tva1.sinaimg.cn/large/006tNbRwgy1gb1yq89fb8j30u00xu1fl.jpg)
 
 ### 七月二号
 
@@ -33,11 +38,11 @@
 
 ### 七月四号
 
-
+暂定箱根（因为正好有祭典：湖尻龙神祭、鸟居烧祭·流灯祭）
 
 ### 七月五号
 
-
+暂定箱根
 
 ### 七月六号
 
@@ -45,9 +50,9 @@
 
 ### 七月七号
 
-
-
-### 七月八号
-
 回程相关信息-待填写(春秋航空???反正四月底之前给订了)
+
+
+
+
 
