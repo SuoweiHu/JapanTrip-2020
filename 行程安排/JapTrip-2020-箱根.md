@@ -4,7 +4,7 @@
 
 ## Notice 
 
-注意⚠️：每个区都用地图把想要去的地方标出来，可以看上面的谷歌地图，还没加入谷歌地图的请添加到“未加到地图中的地址.md”文件中以便区分，之后统一加到[记录用的地图][4]当中
+注意⚠️：这一带的景点就别标了，按照截图+涂画简单注释就行
 
 注意⚠️：如果有需要通知特定人或者所有人或长期任务（可以把任务派给自己或者他人）请添加到Git Issue部分（例如：需要在四月底通知日本同学签发邀请函，需要规划从xx到yy部分的路线，需要提前在网上预订的酒店）
 
@@ -53,27 +53,104 @@
 
 ## 箱根地图导览图
 
-
+据说蛮有用的，到时候下了电车/新干线会有给，这里是我能找到最完全的版本了
 
 ![image-20200119142103577](https://tva1.sinaimg.cn/large/006tNbRwly1gb1um7dd8yj315v0u01kx.jpg)
 
 ![image-20200119142200812](https://tva1.sinaimg.cn/large/006tNbRwly1gb1uqv2ipjj31490u0qv7.jpg)
 
-[REF](https://www.odakyu.jp/wordpress/wp-content/themes/odakyu/sc/pdf/sightseeing/map_hakone.pdf)（下了电车/新干线会有给，这里是我能找到最完全的版本了）
+[REF](https://www.odakyu.jp/wordpress/wp-content/themes/odakyu/sc/pdf/sightseeing/map_hakone.pdf)
 
 ---
 
 ## 景点
 
-在看
+[强罗公园](http://www.mafengwo.cn/poi/5441802.html)（==没啥意思，不去了吧==）
 
-箱根大涌谷观光中心玉子茶屋
+- 强罗公园是一座修建于早云山麓下的法式岩石庭园，于1914年开园，为日本最早的法国式庭园。这座以喷泉为中心左右对称的西洋庭园公园占地面积36,000 平方米，园内铺有天然岩石块砌成的散步小道。除了喷泉和花坛设施外，园内共有三处植物园。他们分别是：汇集了异国情调的奇花异草、充满南国气氛的宽阔的 “九重葛馆”；以橡胶和香蕉树等热带植物为主题的“热带植物馆”。还有汇集了约70种热带香草的“热带香草馆”。 强园公园附近有樱花树林，此地又以杜鹃花著名。而在“白云洞茶苑”茶室游客还可品尝到日本抹茶和日式点心
+- 周一至周日 09:00-17:00（16:30停止入园）
+- 成人500日元、 儿童450日元
+- 乘坐箱根登山巴士S线强罗公园站下车；
+    从东名御殿场IC到乙女峠，经由仙石原，到强罗大约30分钟；或小田原厚木道路小田原西IC到箱根汤本，经由宫之下，到强罗约30分钟。
+
+箱根大涌谷观光中心-玉子茶屋
 
 - 黑玉子温泉蛋
     - 温泉从地下不断涌出，浑浊的水热气腾腾。当地人把鸡蛋装进筐里放到温泉中，过会儿取出时，那些白白的鸡蛋都变成了黑色。这些像生铁球似的鸡蛋却有个好听的名字，叫“黑玉子”。
     - 一纸袋6个，500日元（100[日元](https://baike.baidu.com/item/日元/1246421)约合7.5元人民币）。
     - 仙石原 神奈川県足柄下群箱根町仙石原1251番地
 
-Ref
+REF： 
 
-> [去箱根旅游用什么方式比较好？](https://www.zhihu.com/question/29059959)
+1. [去箱根旅游用什么方式比较好？](https://www.zhihu.com/question/29059959)
+
+---
+
+## 住宿
+
+因为必须要有温泉，所以基本上就汤本（到达点和强罗选一个这样子）
+
+看了很多帖子，感觉住宿还是汤本附近好了，如果要住强罗得拖着行李上山很麻烦，而且也贵，箱根三人包个吉池四人间也是可以的，性价比优秀。
+
+但是说起来箱根离旅游中心又比较远，所以可能还是得背一天行李，路程也会长一点（得走回头路）。解决方案只有到汤本之后一天把大部分景点都去了（强罗-大涌谷、芦之湖、箱根町、元箱根、强罗走一圈），最后一天去御殿场。
+
+---
+
+模版：
+
+- [ ] 强罗
+- [ ] 汤本
+- [ ] 早餐（好评多的才算）
+- [ ] 温泉
+- [ ] 空调
+- [ ] WiFi
+- [ ] 价格实惠（三个人） 最低消费1000RMB 以下
+- [ ] 价格中等（三个人） 最低消费1000RMB 以上, 2500RMB 以下
+- [ ] 价格较贵（三个人） 最低消费2500RMB 以上
+
+---
+
+- 吉池旅馆（汤本）
+
+- [**Emblem Flow Hakone**](https://www.booking.com/hotel/jp/emblem-flow-hakone.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3)
+    - 250-0408 神奈川县, 箱根, Gora 1320-179, 日本 
+    - 位于箱根的强罗温泉，距离箱根强罗公园有7分钟步行路程
+    - 一晚三位成人870软
+    - 模版：
+        - [x] 强罗
+        - [ ] 汤本
+        - [ ] 早餐（好评多的才算）
+        - [ ] 温泉
+        - [x] 空调
+        - [x] WiFi
+        - [x] 价格实惠（三个人） 最低消费1000RMB 以下
+        - [ ] 价格中等（三个人） 最低消费1000RMB 以上, 2500RMB 以下
+        - [ ] 价格较贵（三个人） 最低消费2500RMB 以上
+- [**Hakone Kowakien Tenyu（箱根小涌园天悠日式旅馆）**](https://www.booking.com/hotel/jp/hakone-kowakien-tenyu.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=186762426_225978115_3_1_0;checkin=2020-07-02;checkout=2020-07-03;dest_id=-228233;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=5;highlighted_blocks=186762426_225978115_3_1_0;hp_group_set=0;hpos=5;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=186762426_225978115_3_1_0__6533999;srepoch=1579416738;srpvid=349230512fe6013d;type=total;ucfs=1&#hotelTmpl)
+    - 250-0407 神奈川县, 箱根, Ninotaira 1297, 日本 –
+    - 酒店距离天悠巴士站（Tenyu Bus Stop）有1分钟步行路程，距离小涌园巴士站（Kowakien Bus Stop）有12分钟步行路程，亦提供免费班车，距离小涌谷（Kowakudani）站有16分钟巴士车程，距离箱根小涌园温泉胜地（Hakone Kowakien Yunessun）则有5分钟步行路程，距离箱根雕刻之森美术馆（Hakone Open-Air Museum）及其带雕塑的户外展览和纪念巴勃罗毕加索（Pablo Picasso）的室内展览有30分钟车程，距离芦之湖（Lake Ashi）有25分钟车程。
+    - 4,068元
+    - 模版：
+        - [x] 强罗
+        - [ ] 汤本
+        - [x] 早餐（好评多的才算）
+        - [x] 温泉
+        - [x] 空调
+        - [x] WiFi
+        - [ ] 价格实惠（三个人） 最低消费1000RMB 以下
+        - [x] 价格中等（三个人） 最低消费1000RMB 以上, 2500RMB 以下
+        - [ ] 价格较贵（三个人） 最低消费2500RMB 以上
+
+
+
+
+
+
+
+
+
+
+
+
+
+> 
