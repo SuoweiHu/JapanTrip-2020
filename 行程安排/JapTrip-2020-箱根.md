@@ -2,7 +2,7 @@
 
 ---
 
-## Notice 
+## Notice
 
 注意⚠️：这一带的景点就别标了，按照截图+涂画简单注释就行
 
@@ -291,7 +291,10 @@ https://www.hakonenavi.jp/international/cn/summer
 
 
 
+EVA大型联动&箱根
 
+- https://www.bilibili.com/video/av75663061
+- https://tieba.baidu.com/p/6419221137
 
 
 
