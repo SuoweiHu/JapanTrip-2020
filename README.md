@@ -20,7 +20,7 @@ git log --author="username" --pretty=tformat: --numstat | awk '{ add += $1; subs
 ```
 git log --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git log --author="$name" --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }' -; done
 ```
- 
+
 ---
 
 ## 格式上请使用（Markdown）
@@ -68,24 +68,14 @@ git log --format='%aN' | sort -u | while read name; do echo -en "$name\t"; git l
 - ✈️行程.md:
     - 每个节点上的大致行程
     - 时间上请以“至多/最晚/最久/最慢” 为准
+- 来轶的拍摄计划.md
+
 
 签证相关
 
 - Invitation Form 记得在四月份提醒一下Tom帮我签名，胡所未
 - Application Form 个人本地的签证申请表单可以放在这里
 - Embassy Website 个人本地的大使馆官网在这里（都整理好了）
-
-来轶的拍摄计划.md
-
-- As name says
-
-
-
-
-
-
-
-
 
 ---
 
