@@ -10,6 +10,8 @@
 
 注意⚠️：定下行程后请选择旅馆，详情请参考Git Issue里的内容
 
+注意⚠️：之前我找到的很多的住宿都已经没了，投票之前先看指定价格的房间有没有了。
+
 ---
 
 ## **交通** （从东京出发到箱根汤本）
@@ -115,6 +117,7 @@
 - **箱根登山缆车&箱根空中缆车**
     - **箱根登山缆车**是**连接强罗车站到早云山**车站的在**急陡的斜坡面上攀升的缆车**，车站的月台也是斜坡状。全程1，2千米，需要大约10分钟。
     - 在缓缓上升的空中缆车上，当翻过一个山头后，**富士山**突然出现在眼前，那瞬间令人惊叹。空中缆车会因为天气和火山预警等原因而停止运行，事前最好查询一下运行状况。
+- **箱根小涌园温泉乐园**
 
 REF： 
 
@@ -150,122 +153,140 @@ REF：
 
 ---
 
-### 强罗
+### 箱根住宿
 
-- ~~[**Emblem Flow Hakone**](https://www.booking.com/hotel/jp/emblem-flow-hakone.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3)~~
-    - ~~250-0408 神奈川县, 箱根, Gora 1320-179, 日本~~ 
-    - ~~位于箱根的强罗温泉，距离箱根强罗公园有7分钟步行路程~~
-    - ~~==便宜是便宜，但是没温泉有点==~~
-    - ~~870~~
-    - ~~模版：~~
-        - [x] ~~强罗~~
-        - [ ] ~~汤本~~
-        - [ ] ~~早餐（好评多的才算）~~
-        - [ ] ~~温泉~~
-        - [ ] ~~榻榻米~~
-        - [x] ~~空调~~
-        - [x] ~~WiFi~~
-        - [x] - [x] - [x] - [ ] - [ ] ~~星级~~
-        - [x] ~~价格实惠（三个人） 最低消费1000元 以下~~
-        - [ ] ~~价格中等（三个人） 最低消费1000元 以上, 3000元 以下~~
-        - [ ] ~~价格较贵（三个人） 最低消费3000元 以上~~
-- [**Kazan Hakone-Miyanoshita（箱根宫之下华山日式旅馆**](https://www.booking.com/hotel/jp/kazan-hakone-miyanoshita.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_title&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579417946&srpvid=1f4d30813a9b00f6&type=total&)
-    - 这家住宿距离箱根强罗公园有2.2公里，距离Venetian Glass Museum有5公里。最近的机场是大岛机场，距离Kazan Hakone-Miyanoshita有83公里。
-    - Kazan Hakone-Miyanoshita坐落于箱根，距离箱根雕刻之森美术馆有2公里，配备餐厅、免费私人停车位和共用休息室。这家舒适型住宿的客人可以在客房内欣赏山景，还可以使用温泉浴池。空调客房享有河景，配有衣柜和免费WiFi。
-    - ==看下图吧，温泉真的很好，但是因为是四人房间比较浪费==
-    - 4565（其实是四人房间所以比较宽敞）
-    - 模版：
-        - [x] 强罗
-        - [ ] 汤本
-        - [x] 早餐（好评多的才算）
-        - [x] 温泉
-        - [x] 榻榻米
-        - [x] 空调
-        - [x] WiFi
-        - [x] - [x] - [x] - [ ] - [ ] 星级
-        - [ ] 价格实惠（三个人） 最低消费1000元 以下
-        - [ ] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
-        - [x] 价格较贵（三个人） 最低消费3000元 以上
-- [**Hakone Kowakien Tenyu（箱根小涌园天悠日式旅馆）**](https://www.booking.com/hotel/jp/hakone-kowakien-tenyu.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=186762426_225978115_3_1_0;checkin=2020-07-02;checkout=2020-07-03;dest_id=-228233;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=5;highlighted_blocks=186762426_225978115_3_1_0;hp_group_set=0;hpos=5;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=186762426_225978115_3_1_0__6533999;srepoch=1579416738;srpvid=349230512fe6013d;type=total;ucfs=1&#hotelTmpl)
-    - 250-0407 神奈川县, 箱根, Ninotaira 1297, 日本 –
-    - 酒店距离天悠巴士站（Tenyu Bus Stop）有1分钟步行路程，距离小涌园巴士站（Kowakien Bus Stop）有12分钟步行路程，亦提供免费班车，距离小涌谷（Kowakudani）站有16分钟巴士车程，距离箱根小涌园温泉胜地（Hakone Kowakien Yunessun）则有5分钟步行路程，距离箱根雕刻之森美术馆（Hakone Open-Air Museum）及其带雕塑的户外展览和纪念巴勃罗毕加索（Pablo Picasso）的室内展览有30分钟车程，距离芦之湖（Lake Ashi）有25分钟车程。
-    - ==级别真的是这个价格Range里最高的了，温泉具体情况看下图吧==
-    - 4,068
-    - 模版：
-        - [x] 强罗
-        - [ ] 汤本
-        - [x] 早餐（好评多的才算）
-        - [x] 温泉
-        - [x] 榻榻米
-        - [x] 空调
-        - [ ] WiFi
-        - [x] - [x] - [x] - [x] - [x] 星级
-        - [ ] 价格实惠（三个人） 最低消费1000元 以下
-        - [ ] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
-        - [x] 价格较贵（三个人） 最低消费3000元 以上
-- ~~[**Hakone Yutowa**](https://www.booking.com/hotel/jp/xiang-gen-yutowa.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_btn&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579417505&srpvid=1f4d30813a9b00f6&type=total&)~~
-    - ~~Hakone Yutowa坐落于箱根，距离箱根强罗公园有5分钟步行路程，配备餐厅、免费私人停车位、共用休息室和露台。这家住宿距离箱根雕刻之森美术馆有7分钟步行路程，距离Pola美术馆有5公里，距离Venetian Glass Museum有5公里。住宿提供温泉浴池、免费WiFi和24小时前台。~~
-    - ~~“离强罗站和雕刻之森美术馆都比较近。附近有一家饺子馆，有一家lawson，都比较方便。在西区二层有一个好舒服的书架角落（拍照很好看），里面免费提供茶水，晚上还会固定有一款酒提供。旁边还有游乐室，有准备桌游。 温泉也就还行，人不多。 早餐简单但是环境都很不错，非常推荐。”~~
-    - ~~“地理位置好，强罗站下来在平地步行5分钟即到。私汤算是一个特色，但感觉一般，就是个迷你澡堂，相比之下，我更喜欢二楼的书吧和庭院内的足汤及篝火，无论是围坐烤火还是趴在客房的窗台上看着发呆，都能感觉到一份冬日的温暖。 很喜欢标房的床，离地只有二三十厘米，仍然保留着榻榻米的味道，但又不需要白天收起来，对爱赖床的人来说真是两全其美了。”~~
-    - ~~==温泉布景有点偏现代，而且是室内的，不是特别有那味，但是其他佩刀设施齐全==~~
-    - ~~2,363~~
-    - ~~模版：~~
-        - [x] ~~强罗~~
-        - [ ] ~~汤本~~
-        - [ ] ~~早餐（好评多的才算）~~
-        - [x] ~~温泉~~
-        - [x] ~~榻榻米~~
-        - [x] ~~空调~~
-        - [ ] ~~WiFi~~
-        - [x] - [x] - [x] - [x] - [ ] ~~星级~~
-        - [ ] ~~价格实惠（三个人） 最低消费1000元 以下~~
-        - [x] ~~价格中等（三个人） 最低消费1000元 以上, 3000元 以下~~
-        - [ ] ~~价格较贵（三个人） 最低消费3000元 以上~~
+##### [**K's House Hakone - Onsen Hostel（箱根K's之家 - 温泉旅舍）**](https://www.booking.com/hotel/jp/ks-house-hakone.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=154197707_88171460_0_0_0%2C154197708_88171460_0_0_0;checkin=2020-07-04;checkout=2020-07-05;dest_id=-228233;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=6;highlighted_blocks=154197707_88171460_0_0_0%2C154197708_88171460_0_0_0;hpos=6;nflt=pri%3D2%3Bpri%3D3%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1579503448;srpvid=14ff30ebded9019a;type=total;ucfs=1&#hotelTmpl)
 
-- ~~[**Shirayunoyado Yamadaya Hakone Gora（箱根强罗亚麻代雅温泉日式旅馆）**](https://www.booking.com/hotel/jp/yamadaya.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_title&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579417665&srpvid=1f4d30813a9b00f6&type=total&)~~
+##### [**Onsen Guesthouse HAKONE TENT（箱根帐篷温泉旅馆）**](https://www.booking.com/hotel/jp/hakone-tent.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=109349002_166953906_0_2_0%2C109349003_166953906_0_2_0;checkin=2020-07-04;checkout=2020-07-05;dest_id=-228233;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=5;highlighted_blocks=109349002_166953906_0_2_0%2C109349003_166953906_0_2_0;hpos=5;nflt=pri%3D2%3Bpri%3D3%3Bpopular_nearby_landmarks%3D263325%3B;no_rooms=2;req_adults=3;req_children=0;room1=A;room2=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1579503527;srpvid=bd7e3113f945004d;type=total;ucfs=1&#hotelTmpl)
 
-    - ~~250-0408 神奈川县, 箱根, Gora 1320-907, 日本~~
+ [**Kijitei Hoeiso箱根丰荣庄**](https://www.booking.com/hotel/jp/hoeiso.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;checkin=2020-07-04;checkout=2020-07-05;dest_id=-228233;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=3;hpos=3;nflt=pri%3D2%3Bpri%3D3%3B;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;soh=1;sr_order=popularity;srepoch=1579504402;srpvid=b42f32c9afc700ba;type=total;ucfs=1&#no_availability_msg) 
 
-    - ~~酒店距离Sounzan火车站有4分钟步行路程，距离箱根露天博物馆有10分钟车程，距离如Onshi-Hakone公园、Ashinoko湖、小田原城（Odawara Castle）和大涌谷（Owakudani）等景点有30分钟车程。~~
+---
 
-    - ==~~为日式旅馆~~==
+### 强罗住宿
 
-    - ~~什么是日式旅馆？~~
+##### [**Emblem Flow Hakone**](https://www.booking.com/hotel/jp/emblem-flow-hakone.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3)
 
-        ~~传统日式旅馆通常设有公共浴室，提供多道餐点的晚餐和可供客人放松的休息区，并配有草编地板和蒲团垫。日式旅馆也有经济型、豪华型等多种类型，满足不同预算的客人。日式旅馆最早是为长途跋涉的过路人提供歇脚的地方，后来逐渐发展成为享受矿物温泉理疗的热门去处。~~
+- 250-0408 神奈川县, 箱根, Gora 1320-179, 日本 
+- 位于箱根的强罗温泉，距离箱根强罗公园有7分钟步行路程
+- ==便宜，但是没温泉==
+- 870
+- 模版：
+    - [x] 强罗
+    - [ ] 汤本
+    - [ ] 早餐（好评多的才算）
+    - [ ] 温泉
+    - [ ] 榻榻米
+    - [x] 空调
+    - [x] WiFi
+    - [x] - [x] - [x] - [ ] - [ ] 星级
+    - [x] 价格实惠（三个人） 最低消费1000元 以下
+    - [ ] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
+    - [ ] 价格较贵（三个人） 最低消费3000元 以上
 
-    - ~~模版：~~
+##### [**Kazan Hakone-Miyanoshita（箱根宫之下华山日式旅馆**](https://www.booking.com/hotel/jp/kazan-hakone-miyanoshita.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_title&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579417946&srpvid=1f4d30813a9b00f6&type=total&)
 
-        - [x] ~~强罗~~
-        - [ ] ~~汤本~~
-        - [ ] ~~早餐（好评多的才算）~~
-        - [x] ~~温泉~~
-        - [x] ~~榻榻米~~
-        - [x] ~~空调~~
-        - [x] ~~WiFi~~
-        - [x] - [x] - [x] - [ ] - [ ] ~~星级~~
-        - [ ] ~~价格实惠（三个人） 最低消费1000元 以下~~
-        - [x] ~~价格中等（三个人） 最低消费1000元 以上, 3000元 以下~~
-        - [ ] ~~价格较贵（三个人） 最低消费3000元 以上~~
+- 这家住宿距离箱根强罗公园有2.2公里，距离Venetian Glass Museum有5公里。最近的机场是大岛机场，距离Kazan Hakone-Miyanoshita有83公里。
+- Kazan Hakone-Miyanoshita坐落于箱根，距离箱根雕刻之森美术馆有2公里，配备餐厅、免费私人停车位和共用休息室。这家舒适型住宿的客人可以在客房内欣赏山景，还可以使用温泉浴池。空调客房享有河景，配有衣柜和免费WiFi。
+- ==看下图吧，温泉真的很好，但是因为是四人房间比较浪费==
+- 4565（其实是四人房间所以比较宽敞）
+- 模版：
+    - [x] 强罗
+    - [ ] 汤本
+    - [x] 早餐（好评多的才算）
+    - [x] 温泉
+    - [x] 榻榻米
+    - [x] 空调
+    - [x] WiFi
+    - [x] - [x] - [x] - [ ] - [ ] 星级
+    - [ ] 价格实惠（三个人） 最低消费1000元 以下
+    - [ ] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
+    - [x] 价格较贵（三个人） 最低消费3000元 以上
 
-- [**Hotel Okada（冈田饭店）**](https://www.booking.com/hotel/jp/hotel-okada.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_title&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579418574&srpvid=90d5338078ce003d&type=total&)
-    - Hotel Okada酒店设有室内和室外温水浴缸，提供享有山脉美景的日本风格的住宿。客人可以在桑拿房放松或要求按摩服务。酒店距离Hakone Yumoto火车站有5分钟的车程。酒店的大堂区设有免费Wi-Fi。
-    - 空调客房提供榻榻米（草编）地板和日式蒲团寝具，设有一台平板电视、冰箱和带绿茶的电热水壶。酒店为所有客人提供拖鞋和日式浴衣。连接浴室内配备有免费洗浴用品和吹风机。
-    - 客人可以要求使用私人热水浴缸或坐在外面享受足部温泉浴。酒店的室外游泳池在夏季开放。酒店还设有一间卡拉OK室和游戏角供客人在入住期间使用。
-    - ==温泉分室内室外，装修设计也比较像想象中的日式温泉屋==
-    - 3190
-    - 模版：
-        - [x] 强罗
-        - [ ] 汤本
-        - [x] 早餐（好评多的才算）
-        - [x] 温泉
-        - [x] 榻榻米
-        - [x] 空调
-        - [x] WiFi
-        - [x] - [x] - [x] - [x] - [ ] 星级
-        - [ ] 价格实惠（三个人） 最低消费1000元 以下
-        - [ ] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
-        - [x] 价格较贵（三个人） 最低消费3000元 以上
+##### [**Hakone Kowakien Tenyu（箱根小涌园天悠日式旅馆）**](https://www.booking.com/hotel/jp/hakone-kowakien-tenyu.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=186762426_225978115_3_1_0;checkin=2020-07-02;checkout=2020-07-03;dest_id=-228233;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=5;highlighted_blocks=186762426_225978115_3_1_0;hp_group_set=0;hpos=5;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=186762426_225978115_3_1_0__6533999;srepoch=1579416738;srpvid=349230512fe6013d;type=total;ucfs=1&#hotelTmpl)
+
+- 250-0407 神奈川县, 箱根, Ninotaira 1297, 日本 –
+- 酒店距离天悠巴士站（Tenyu Bus Stop）有1分钟步行路程，距离小涌园巴士站（Kowakien Bus Stop）有12分钟步行路程，亦提供免费班车，距离小涌谷（Kowakudani）站有16分钟巴士车程，距离箱根小涌园温泉胜地（Hakone Kowakien Yunessun）则有5分钟步行路程，距离箱根雕刻之森美术馆（Hakone Open-Air Museum）及其带雕塑的户外展览和纪念巴勃罗毕加索（Pablo Picasso）的室内展览有30分钟车程，距离芦之湖（Lake Ashi）有25分钟车程。
+- ==级别真的是这个价格Range里最高的了，温泉具体情况看下图吧==
+- 4,068
+- 模版：
+    - [x] 强罗
+    - [ ] 汤本
+    - [x] 早餐（好评多的才算）
+    - [x] 温泉
+    - [x] 榻榻米
+    - [x] 空调
+    - [ ] WiFi
+    - [x] - [x] - [x] - [x] - [x] 星级
+    - [ ] 价格实惠（三个人） 最低消费1000元 以下
+    - [ ] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
+    - [x] 价格较贵（三个人） 最低消费3000元 以上
+
+##### [**Hakone Yutowa**](https://www.booking.com/hotel/jp/xiang-gen-yutowa.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_btn&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579417505&srpvid=1f4d30813a9b00f6&type=total&)
+
+- Hakone Yutowa坐落于箱根，距离箱根强罗公园有5分钟步行路程，配备餐厅、免费私人停车位、共用休息室和露台。这家住宿距离箱根雕刻之森美术馆有7分钟步行路程，距离Pola美术馆有5公里，距离Venetian Glass Museum有5公里。住宿提供温泉浴池、免费WiFi和24小时前台。
+- “离强罗站和雕刻之森美术馆都比较近。附近有一家饺子馆，有一家lawson，都比较方便。在西区二层有一个好舒服的书架角落（拍照很好看），里面免费提供茶水，晚上还会固定有一款酒提供。旁边还有游乐室，有准备桌游。 温泉也就还行，人不多。 早餐简单但是环境都很不错，非常推荐。”
+- “地理位置好，强罗站下来在平地步行5分钟即到。私汤算是一个特色，但感觉一般，就是个迷你澡堂，相比之下，我更喜欢二楼的书吧和庭院内的足汤及篝火，无论是围坐烤火还是趴在客房的窗台上看着发呆，都能感觉到一份冬日的温暖。 很喜欢标房的床，离地只有二三十厘米，仍然保留着榻榻米的味道，但又不需要白天收起来，对爱赖床的人来说真是两全其美了。”
+- ==温泉布景有点偏现代，而且是室内的，不是特别有那味，但是其他佩刀设施齐全==
+- 2,363
+- 模版：
+    - [x] 强罗
+    - [ ] 汤本
+    - [ ] 早餐（好评多的才算）
+    - [x] 温泉
+    - [x] 榻榻米
+    - [x] 空调
+    - [ ] WiFi
+    - [x] - [x] - [x] - [x] - [ ] 星级
+    - [ ] 价格实惠（三个人） 最低消费1000元 以下
+    - [x] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
+    - [ ] 价格较贵（三个人） 最低消费3000元 以上
+
+##### [**Shirayunoyado Yamadaya Hakone Gora（箱根强罗亚麻代雅温泉日式旅馆）**](https://www.booking.com/hotel/jp/yamadaya.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_title&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579417665&srpvid=1f4d30813a9b00f6&type=total&)
+
+- 250-0408 神奈川县, 箱根, Gora 1320-907, 日本
+
+- 酒店距离Sounzan火车站有4分钟步行路程，距离箱根露天博物馆有10分钟车程，距离如Onshi-Hakone公园、Ashinoko湖、小田原城（Odawara Castle）和大涌谷（Owakudani）等景点有30分钟车程。
+
+- ==为日式旅馆==
+
+- 什么是日式旅馆？
+
+    传统日式旅馆通常设有公共浴室，提供多道餐点的晚餐和可供客人放松的休息区，并配有草编地板和蒲团垫。日式旅馆也有经济型、豪华型等多种类型，满足不同预算的客人。日式旅馆最早是为长途跋涉的过路人提供歇脚的地方，后来逐渐发展成为享受矿物温泉理疗的热门去处。
+
+- 模版：
+
+    - [x] 强罗
+    - [ ] 汤本
+    - [ ] 早餐（好评多的才算）
+    - [x] 温泉
+    - [x] 榻榻米
+    - [x] 空调
+    - [x] WiFi
+    - [x] - [x] - [x] - [ ] - [ ] 星级
+    - [ ] 价格实惠（三个人） 最低消费1000元 以下
+    - [x] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
+    - [ ] 价格较贵（三个人） 最低消费3000元 以上
+
+##### [**Hotel Okada（冈田饭店）**](https://www.booking.com/hotel/jp/hotel-okada.zh-cn.html?aid=357030;label=bai408jc-1DCAUodUIMZ29yYS1zdGF0aW9uSCtYA2gxiAEBmAEruAEHyAEM2AED6AEB-AECiAIBqAIDuAL79Y_xBcACAQ;sid=f65e5c744e9fe70549d3af783bad1ab3;atlas_src=hp_iw_title&checkin=2020-07-02&checkout=2020-07-03&dist=0&group_adults=3&group_children=0&no_rooms=1&room1=A%2CA%2CA&sb_price_type=total&srepoch=1579418574&srpvid=90d5338078ce003d&type=total&)
+
+- Hotel Okada酒店设有室内和室外温水浴缸，提供享有山脉美景的日本风格的住宿。客人可以在桑拿房放松或要求按摩服务。酒店距离Hakone Yumoto火车站有5分钟的车程。酒店的大堂区设有免费Wi-Fi。
+- 空调客房提供榻榻米（草编）地板和日式蒲团寝具，设有一台平板电视、冰箱和带绿茶的电热水壶。酒店为所有客人提供拖鞋和日式浴衣。连接浴室内配备有免费洗浴用品和吹风机。
+- 客人可以要求使用私人热水浴缸或坐在外面享受足部温泉浴。酒店的室外游泳池在夏季开放。酒店还设有一间卡拉OK室和游戏角供客人在入住期间使用。
+- ==温泉分室内室外，装修设计也比较像想象中的日式温泉屋==
+- 3190
+- 模版：
+    - [x] 强罗
+    - [ ] 汤本
+    - [x] 早餐（好评多的才算）
+    - [x] 温泉
+    - [x] 榻榻米
+    - [x] 空调
+    - [x] WiFi
+    - [x] - [x] - [x] - [x] - [ ] 星级
+    - [ ] 价格实惠（三个人） 最低消费1000元 以下
+    - [ ] 价格中等（三个人） 最低消费1000元 以上, 3000元 以下
+    - [x] 价格较贵（三个人） 最低消费3000元 以上
 
 ---
 

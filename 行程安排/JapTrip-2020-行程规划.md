@@ -22,6 +22,10 @@
 
 ## 具体行程
 
+
+
+---
+
 ### 七月一号（羽田-涩谷）
 
 七月一日早中时间到达东京羽田国际机场，需要乘坐Access特快/京滨急行电车（其他路线参考[这里](https://tva1.sinaimg.cn/large/006tNbRwgy1gb1yduqvtuj31ae0u01kx.jpg)），转JR环线到达涩谷或者中央区酒店把行李放下（因为日本酒店的入住时间是下午3（2-3前）点，退房时间是上午10（10-11前）点，所以只是心里放酒店前台，如果不行的话放JR行李寄存，黄色区域，[参考这里JR东日本](https://www.jreast.co.jp/estation/stations/808.html)-涩谷区）。
@@ -38,25 +42,88 @@
 
 前两天我看箱根的那几个只有2-3个房间了，我还以为是平台在搞我，要这么说的确是有点抢手，所以其他的看好了也快点一起定了
 
-[do-c Ebisu Opens ドシー恵比寿](https://www.booking.com/hotel/jp/do-c-ebisu.en-gb.html?aid=1288246;label=metagha-link-mapresultsJP-hotel-2178478_dev-desktop_los-1_bw-163_dow-Wednesday_defdate-0_room-0_lang-en_curr-JPY_gstadt-3_rateid-0_aud-0_cid-_gacid-6623582119_mcid-10;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=217847805_105739541_0_0_0%2C217847805_105739541_0_0_0%2C217847805_105739541_0_0_0;checkin=2020-07-01;checkout=2020-07-02;dest_id=-246227;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;highlighted_blocks=217847805_105739541_0_0_0%2C217847805_105739541_0_0_0%2C217847805_105739541_0_0_0;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA%2C;sb_price_type=total;sr_order=popularity;sr_pri_blocks=217847805_105739541_0_0_0__399999%2C217847805_105739541_0_0_0__399999%2C217847805_105739541_0_0_0__399999;srepoch=1579492350;srpvid=d5831b3e4e890017;type=total;ucfs=1&#hotelTmpl)
-
-![截屏2020-01-2011.56.59](https://tva1.sinaimg.cn/large/006tNbRwgy1gb2w31apz1j31ck0u0u0y.jpg)
-
 [Wise Owl Hostels Shibuya](https://www.booking.com/hotel/jp/wise-owl-hostels-shibuya.en-gb.html?aid=1288246;label=metagha-link-mapresultsJP-hotel-2263091_dev-desktop_los-1_bw-163_dow-Wednesday_defdate-0_room-0_lang-en_curr-JPY_gstadt-3_rateid-0_aud-0_cid-_gacid-6623582119_mcid-10;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=226309105_106405332_0_0_0;checkin=2020-07-01;checkout=2020-07-02;dest_id=-246227;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;highlighted_blocks=226309105_106405332_0_0_0;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA%2C;sb_price_type=total;sr_order=popularity;sr_pri_blocks=226309105_106405332_0_0_0__2000000;srepoch=1579492248;srpvid=84c21b0b568f00db;type=total;ucfs=1&#hotelTmpl)
 
 在附近一带的标记
 
 ![image-20200120135650217](https://tva1.sinaimg.cn/large/006tNbRwgy1gb2zjfqlfoj30u00u71kx.jpg)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ### 七月二号
 
 
 
-### 七月三号（原宿）
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+### 七月三号（原宿住宿）
+
+**住宿**
+
+[do-c Ebisu Opens ドシー恵比寿](https://do-c.jp/ebisu/) [Booking.com](https://www.booking.com/hotel/jp/do-c-ebisu.en-gb.html?aid=1288246;label=metagha-link-mapresultsJP-hotel-2178478_dev-desktop_los-1_bw-163_dow-Wednesday_defdate-0_room-0_lang-en_curr-JPY_gstadt-3_rateid-0_aud-0_cid-_gacid-6623582119_mcid-10;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=217847805_105739541_0_0_0%2C217847805_105739541_0_0_0%2C217847805_105739541_0_0_0;checkin=2020-07-01;checkout=2020-07-02;dest_id=-246227;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;highlighted_blocks=217847805_105739541_0_0_0%2C217847805_105739541_0_0_0%2C217847805_105739541_0_0_0;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA%2C;sb_price_type=total;sr_order=popularity;sr_pri_blocks=217847805_105739541_0_0_0__399999%2C217847805_105739541_0_0_0__399999%2C217847805_105739541_0_0_0__399999;srepoch=1579492350;srpvid=d5831b3e4e890017;type=total;ucfs=1&#hotelTmpl)
+
+- 可以预约到店付款（但是得确定入住时间，逾期被视为取消，且有罚金）
+- 胶囊酒店，装潢大量使用木质板材，看上去很有趣，有桑拿浴室
+- 提供个人Locker，提供统一放行李的地方
+- 隔音不好：
+    - Price was reasonable and location exceptional. Adjoining guests (foreigners) talking to each other, making unneccessary noise, and playing videos on their phones without earphones. No enforcement of quiet room.
+    - ... 不过因为是涉谷附近嘛，会有很多不同国家的住宿者，要提前做好大家作息不同的心理准备，有什么问题也都可以向工作人员反映。
+
+![截屏2020-01-2011.56.59](https://tva1.sinaimg.cn/large/006tNbRwgy1gb2w31apz1j31ck0u0u0y.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ### 七月四号（箱根到达-登山线-缆车-回到强罗）
+
+![image-20200120143303661](https://tva1.sinaimg.cn/large/006tNbRwgy1gb30l39cbkj31cn0u0u0y.jpg)
 
 ![image-20200120135250456](https://tva1.sinaimg.cn/large/006tNbRwgy1gb2zf72j6vj31cg0u04qq.jpg)
 
@@ -64,19 +131,51 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ### 七月五号（强罗-登山线-缆车（到芦之湖）-巴士（到神社）-回到原宿）
 
 ![image-20200120135325068](https://tva1.sinaimg.cn/large/006tNbRwgy1gb2zfvfu07j31cg0u04qq.jpg)
 
 
 
+
+
+
+
+
+
+---
+
 ### 七月六号
 
 
 
+
+
+
+
+
+
+
+
+---
+
 ### 七月七号
 
-回程相关信息-待填写(春秋航空???反正四月底之前给订了)
+回程相关信息-待填
 
 
 
