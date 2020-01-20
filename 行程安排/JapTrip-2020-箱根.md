@@ -14,7 +14,7 @@
 
 ## **交通** （从东京出发到箱根汤本）
 
-![image-20200119142819649](https://tva1.sinaimg.cn/large/006tNbRwly1gb1uttv8x6j316y0u01ky.jpg)
+![image-20200120135016290](https://tva1.sinaimg.cn/large/006tNbRwgy1gb2zckkm8dj31c90u0npe.jpg)
 
 - ### **铁路**
 
