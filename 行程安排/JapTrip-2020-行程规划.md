@@ -68,13 +68,7 @@
 
 ### 七月二号
 
-
-
-
-
-
-
-
+~~上野公园(2小时) ->~~ 秋叶原 -> 浅草寺(2小时) -> 东京天空树(2小时)
 
 
 
@@ -88,9 +82,9 @@
 
 ### 七月三号（原宿住宿）
 
+涩谷 -> 明治神宫(2小时) -> 新宿
+
 **住宿**
-
-
 
 [do-c Ebisu Opens ドシー恵比寿](https://do-c.jp/ebisu/) [Booking.com](https://www.booking.com/hotel/jp/do-c-ebisu.en-gb.html?aid=1288246;label=metagha-link-mapresultsJP-hotel-2178478_dev-desktop_los-1_bw-163_dow-Wednesday_defdate-0_room-0_lang-en_curr-JPY_gstadt-3_rateid-0_aud-0_cid-_gacid-6623582119_mcid-10;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=217847805_105739541_0_0_0%2C217847805_105739541_0_0_0%2C217847805_105739541_0_0_0;checkin=2020-07-01;checkout=2020-07-02;dest_id=-246227;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;highlighted_blocks=217847805_105739541_0_0_0%2C217847805_105739541_0_0_0%2C217847805_105739541_0_0_0;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA%2C;sb_price_type=total;sr_order=popularity;sr_pri_blocks=217847805_105739541_0_0_0__399999%2C217847805_105739541_0_0_0__399999%2C217847805_105739541_0_0_0__399999;srepoch=1579492350;srpvid=d5831b3e4e890017;type=total;ucfs=1&#hotelTmpl)
 
@@ -161,9 +155,7 @@
 
 ### 七月六号
 
-
-
-
+~~皇居(2小时) ->~~ 银座(2小时) -> 东京塔(2小时) -> 六本木(2小时)
 
 
 
