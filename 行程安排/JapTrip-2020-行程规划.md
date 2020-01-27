@@ -21,22 +21,10 @@
 
 
 ### 七月一号（羽田-涩谷）
+其他路线参考[这里](https://tva1.sinaimg.cn/large/006tNbRwgy1gb1yduqvtuj31ae0u01kx.jpg)）
+[参考这里JR东日本](https://www.jreast.co.jp/estation/stations/808.html)
 
-七月一日早中时间到达东京羽田国际机场，需要乘坐Access特快/京滨急行电车（其他路线参考[这里](https://tva1.sinaimg.cn/large/006tNbRwgy1gb1yduqvtuj31ae0u01kx.jpg)），转JR环线到达涩谷或者中央区酒店把行李放下（因为日本酒店的入住时间是下午3（2-3前）点，退房时间是上午10（10-11前）点，所以只是心里放酒店前台，如果不行的话放JR行李寄存，黄色区域，[参考这里JR东日本](https://www.jreast.co.jp/estation/stations/808.html)-涩谷区）。
-
-![image-20200120111451067](https://tva1.sinaimg.cn/large/006tNbRwgy1gb2uuzcb5dj313y0u01ky.jpg)
-
-[东京东急涩谷卓越大饭店( Shibuya Excel Hotel Tokyu Tokyo)](https://www.tokyuhotels.co.jp/shibuya-e/?utm_source=google&utm_medium=maps#)
-
-[book](https://www.booking.com/hotel/jp/shibuya-excel-tokyu.en-gb.html?aid=1288246;label=metagha-link-mapresultsJP-hotel-2178478_dev-desktop_los-1_bw-163_dow-Wednesday_defdate-0_room-0_lang-en_curr-JPY_gstadt-3_rateid-0_aud-0_cid-_gacid-6623582119_mcid-10;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=23569907_218371309_0_2_0%2C23569903_218371309_0_2_0;checkin=2020-07-01;checkout=2020-07-02;dest_id=-246227;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;highlighted_blocks=23569907_218371309_0_2_0%2C23569903_218371309_0_2_0;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=23569907_218371309_0_2_0__2539999%2C23569903_218371309_0_2_0__2239999;srepoch=1579499875;srpvid=3b3629f1b3180097;type=total;ucfs=1&#hotelTmpl)
-
-- 渋谷エクセルホテル東急
-- 〒150-0043 東京都渋谷区道玄坂１丁目１２−2 渋谷マークシティ内
-- 03-5457-0109
-
-前两天我看箱根的那几个只有2-3个房间了，我还以为是平台在搞我，要这么说的确是有点抢手，所以其他的看好了也快点一起定了
-
-[Wise Owl Hostels Shibuya](https://www.booking.com/hotel/jp/wise-owl-hostels-shibuya.en-gb.html?aid=1288246;label=metagha-link-mapresultsJP-hotel-2263091_dev-desktop_los-1_bw-163_dow-Wednesday_defdate-0_room-0_lang-en_curr-JPY_gstadt-3_rateid-0_aud-0_cid-_gacid-6623582119_mcid-10;sid=f65e5c744e9fe70549d3af783bad1ab3;all_sr_blocks=226309105_106405332_0_0_0;checkin=2020-07-01;checkout=2020-07-02;dest_id=-246227;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;highlighted_blocks=226309105_106405332_0_0_0;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA%2C;sb_price_type=total;sr_order=popularity;sr_pri_blocks=226309105_106405332_0_0_0__2000000;srepoch=1579492248;srpvid=84c21b0b568f00db;type=total;ucfs=1&#hotelTmpl)
+[Wise Owl Hostels Shibuya](https://www.booking.com/hotel/jp/wise-owl-hostels-shibuya.en-gb.html?aid=1288246)
 
 在附近一带的标记
 
